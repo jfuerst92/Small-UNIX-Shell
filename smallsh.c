@@ -1,6 +1,6 @@
 /************************************************************************
  *smallsh.c
- *Author: Joseph Fuerst !!
+ *Author: Joseph Fuerst !! **
  *Description: This is a basic UNIX shell that allows a user to run programs, redirect input and output,
  * change directory, and other useful functions.
  ************************************************************************/
